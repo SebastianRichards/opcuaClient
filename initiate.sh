@@ -1,0 +1,1 @@
+node ../../sample_client_ts/sample_client.js
